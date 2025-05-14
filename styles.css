@@ -1,0 +1,42 @@
+body {
+    font-family: "Share Tech Mono", monospace;
+    background-color: #222;
+    color: #fff;
+    text-align: center;
+    padding-top: 100px;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 40px;
+    color: #00ffcc;
+}
+
+#word-display {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+#word-input {
+    font-size: 1.5rem;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 300px;
+}
+
+#result {
+    margin-top: 30px;
+    font-size: 1.2rem;
+}
+
+#resetBtn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #00ffcc;
+    color: #222;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
