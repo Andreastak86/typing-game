@@ -14,6 +14,9 @@ const words = [
     "hierarchy",
     "keyboard",
     "surveillance",
+    "cat",
+    "donkey",
+    "elephant"
 ];
 let currentWord = "";
 let score = 0;
